@@ -9,6 +9,9 @@ import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESedeKeySpec;
 import javax.crypto.spec.IvParameterSpec;
 import java.security.Key;
+/*
+用户密码加密
+ */
 
 public class CryptionUtil {
 

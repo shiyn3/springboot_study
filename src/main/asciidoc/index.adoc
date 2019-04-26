@@ -1,0 +1,2 @@
+include::{snippets}/home/http-request.adoc[]
+include::{snippets}/home/http-response.adoc[]
